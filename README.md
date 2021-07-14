@@ -1,5 +1,5 @@
 # CS381 Data Analytics @ Queens College
-Term: Spring 2021
+Term: Spring 2021 \
 Professor: Chiu Pang
 
 # ATTENTION
